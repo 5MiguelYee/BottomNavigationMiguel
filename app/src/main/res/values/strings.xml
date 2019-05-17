@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">BottomNavigationMiguel</string>
+    <string name="app_name">Bottom Navigation</string>
+    <string name="tittle_shop">Shop</string>
+    <string name="tittle_gifts">Gifts</string>
+    <string name="tittle_cart">Cart</string>
+    <string name="tittle_profile">Profile</string>
     <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
